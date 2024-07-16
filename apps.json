@@ -22,6 +22,458 @@
       "versionDate": "2024-7-16T12:00:00-01:00",
       "versionDescription": "v19.26.5 (3.0.4): The changelog can be found at\nhttps://github.com/xiihaiqal/uYouPlus/releases/tag/latest"
     }
+{
+      "name": "Watusi",
+      "subtitle": "The all-in-one tweak for WhatsApp Messenger",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is an original version, it has original WhatsApp bundle ID. You need to delete original WhatsApp before installing.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "24.13.78",
+          "date": "2024-07-02",
+          "localizedDescription": "Support WA 24.13.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.36/net.whatsapp.WhatsApp_24.13.78_watusi3_1.2.36.ipa",
+          "size": 106999840,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/net.whatsapp.WhatsApp_24.11.80_watusi3_1.2.33.ipa",
+          "size": 103786649,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.9.4",
+          "date": "2024-05-10",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.32/net.whatsapp.WhatsApp_24.9.4_watusi3_1.2.32.ipa",
+          "size": 102833463,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/net.whatsapp.WhatsApp_24.7.79_watusi3_1.2.30.ipa",
+          "size": 104131230,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.6.77",
+          "date": "2024-03-30",
+          "localizedDescription": "Support WA 24.6.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.29_2/net.whatsapp.WhatsApp_24.6.77_watusi3_1.2.29.ipa",
+          "size": 86839697,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.5.75",
+          "date": "2024-03-13",
+          "localizedDescription": "Support WA 24.5.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.27/net.whatsapp.WhatsApp_24.5.75_watusi3_1.2.27.ipa",
+          "size": 101523938,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.4.78",
+          "date": "2024-02-28",
+          "localizedDescription": "Support WA 24.4.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsApp_24.4.78_watusi3_1.2.25.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.76",
+          "date": "2024-02-15",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.21_2/net.whatsapp.WhatsApp_24.3.76_watusi3_1.2.21.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.70",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsApp_24.3.70_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.2.75",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.2.75",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.19/net.whatsapp.WhatsApp_v24.2.75_watusi3_1.2.19.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsApp_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/net.whatsapp.WhatsApp_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "23.25.81",
+          "date": "2023-12-16",
+          "localizedDescription": "Support WA 23.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsApp_v23.25.81_watusi3_1.2.14.ipa",
+          "size": 94400000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp. (Bundle ID com.fouadraheb.watusi) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "24.13.78",
+          "date": "2024-07-02",
+          "localizedDescription": "Support WA 24.13.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.36/com.fouadraheb.watusi_24.13.78_watusi3_1.2.36.ipa",
+          "size": 104918482,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/com.fouadraheb.watusi_24.11.80_watusi3_1.2.33.ipa",
+          "size": 101901011,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.9.4",
+          "date": "2024-05-10",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.32/com.fouadraheb.watusi_24.9.4_watusi3_1.2.32.ipa",
+          "size": 100960083,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/com.fouadraheb.watusi_24.7.79_watusi3_1.2.30.ipa",
+          "size": 102303102,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.6.77",
+          "date": "2024-03-30",
+          "localizedDescription": "Support WA 24.6.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.29_2/com.fouadraheb.watusi_24.6.77_watusi3_1.2.29.ipa",
+          "size": 85543664,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.5.75",
+          "date": "2024-03-13",
+          "localizedDescription": "Support WA 24.5.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.27/com.fouadraheb.watusi_24.5.75_watusi3_1.2.27.ipa",
+          "size": 99611086,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.4.78",
+          "date": "2024-02-28",
+          "localizedDescription": "Support WA 24.4.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.25/com.fouadraheb.watusi_24.4.78_watusi3_1.2.25.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.76",
+          "date": "2024-02-15",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.21_2/com.fouadraheb.watusi_24.3.76_watusi3_1.2.21.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.70",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20/com.fouadraheb.watusi_24.3.70_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.2.75",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.2.75",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.19/com.fouadraheb.watusi_v24.2.75_watusi3_1.2.19.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusi_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/com.fouadraheb.watusi_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "23.25.81",
+          "date": "2023-12-16",
+          "localizedDescription": "Support WA 23.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.14x/com.fouadraheb.watusi_v23.25.81_watusi3_1.2.14.ipa",
+          "size": 92700000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Business)",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This version has original WhatsApp Business bundle ID.\n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "24.13.78",
+          "date": "2024-07-02",
+          "localizedDescription": "Support WA 24.13.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.36/net.whatsapp.WhatsAppSMB_24.13.78_watusi3_1.2.36.ipa",
+          "size": 113304492,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/net.whatsapp.WhatsAppSMB_24.11.80_watusi3_1.2.33.ipa",
+          "size": 110143802,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.9.76",
+          "date": "2024-05-10",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.32/net.whatsapp.WhatsAppSMB_24.9.76_watusi3_1.2.32.ipa",
+          "size": 109006709,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/net.whatsapp.WhatsAppSMB_24.7.79_watusi3_1.2.30.ipa",
+          "size": 110396188,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.6.77",
+          "date": "2024-03-30",
+          "localizedDescription": "Support WA 24.6.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.29/net.whatsapp.WhatsAppSMB_24.6.77_watusi3_1.2.29.ipa",
+          "size": 110889686,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.5.75",
+          "date": "2024-03-13",
+          "localizedDescription": "Support WA 24.5.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.27/net.whatsapp.WhatsAppSMB_24.5.75_watusi3_1.2.27.ipa",
+          "size": 107643878,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.4.78",
+          "date": "2024-02-28",
+          "localizedDescription": "Support WA 24.4.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.25/net.whatsapp.WhatsAppSMB_4.4.78_watusi3_1.2.25.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.76",
+          "date": "2024-02-15",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.21_2/net.whatsapp.WhatsAppSMB_24.3.76_watusi3_1.2.21.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.2.75",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20/net.whatsapp.WhatsAppSMB_24.2.75_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/net.whatsapp.WhatsAppSMB_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.4",
+          "date": "2024-01-16",
+          "localizedDescription": "Support WA 24.1.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.15/com.fouadraheb.watusi_v24.1.4_watusi3_1.2.15.ipa",
+          "size": 95200000,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "23.25.81",
+          "date": "2023-12-16",
+          "localizedDescription": "Support WA 23.25.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.14x/net.whatsapp.WhatsAppSMB_v23.25.81_watusi3_1.2.14.ipa",
+          "size": 100300000,
+          "minOSVersion": "12.0"
+        }
+      ]
+    },
+    {
+      "name": "Watusi (Business Duplicate)",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "subtitle": "Your all-in-one tweak for WhatsApp Messenger",
+      "minOSVersion": "12.0",
+      "developerName": "Fouad Raheb",
+      "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.",
+      "category": "social",
+      "tintColor": "#31d84d",
+      "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s1.png",
+        "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/s2.png"
+      ],
+      "versions": [
+        {
+          "version": "24.13.78",
+          "date": "2024-07-02",
+          "localizedDescription": "Support WA 24.13.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.36/com.fouadraheb.watusiSMB_24.13.78_watusi3_1.2.36.ipa",
+          "size": 111145406,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.11.80",
+          "date": "2024-06-06",
+          "localizedDescription": "Support WA 24.11.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.33/com.fouadraheb.watusiSMB_24.11.80_watusi3_1.2.33.ipa",
+          "size": 108179352,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.9.76",
+          "date": "2024-05-10",
+          "localizedDescription": "Support WA 24.9.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.32/com.fouadraheb.watusiSMB_24.9.76_watusi3_1.2.32.ipa",
+          "size": 107059127,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.7.79",
+          "date": "2024-04-12",
+          "localizedDescription": "Support WA 24.7.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.30/com.fouadraheb.watusiSMB_24.7.79_watusi3_1.2.30.ipa",
+          "size": 108499101,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.6.77",
+          "date": "2024-03-30",
+          "localizedDescription": "Support WA 24.6.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.29/com.fouadraheb.watusiSMB_24.6.77_watusi3_1.2.29.ipa",
+          "size": 108910304,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.5.75",
+          "date": "2024-03-13",
+          "localizedDescription": "Support WA 24.5.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.27/com.fouadraheb.watusiSMB_24.5.75_watusi3_1.2.27.ipa",
+          "size": 105662601,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.4.78",
+          "date": "2024-02-28",
+          "localizedDescription": "Support WA 24.4.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.25/com.fouadraheb.watusiSMB_4.4.78_watusi3_1.2.25.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.3.76",
+          "date": "2024-02-15",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.21_2/com.fouadraheb.watusiSMB_24.3.76_watusi3_1.2.21.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.2.75",
+          "date": "2024-02-01",
+          "localizedDescription": "Support WA 24.3.X",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.20/com.fouadraheb.watusiSMB_24.2.75_watusi3_1.2.20.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        },
+        {
+          "version": "24.1.80",
+          "date": "2024-01-19",
+          "localizedDescription": "Support WA 24.1.80",
+          "downloadURL": "https://archive.org/download/watusi3_1.2.18/com.fouadraheb.watusiSMB_v24.1.80_watusi3_1.2.18.ipa",
+          "size": 98901757,
+          "minOSVersion": "12.0"
+        }
+      ]
+    }
   ],
   "identifier": "com.xiihaiqal.sidestorerepo",
   "name": "XiiHaiqal SideStore Repo",
